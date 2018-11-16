@@ -1,0 +1,9 @@
+{
+  "name": "dialogflow-backend",
+  "version": "1.0.0",
+  "description": "dialogflow backend example(using websocket)",
+  "main": "index.js",
+  "repository": "https://github.com/devwing/dialogflow-example",
+  "author": "devwing",
+  "license": "MIT"
+}
